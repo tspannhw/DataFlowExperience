@@ -1,0 +1,3 @@
+# hbase shell
+create 'iottest', 'iot_details'
+exit
